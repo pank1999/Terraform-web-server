@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIATL2EBYAWRUMJ3XPH"
-  secret_key = "aULddFFMFb6ENRMXzJXf9aTo+mLXapJvvmqiQCU5"
+  access_key = "" // put your aws access key 
+  secret_key = ""  // put your aws secret key
 }
 
 // creating EC2 instance using teraform
